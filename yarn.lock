@@ -1990,6 +1990,17 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
+"@starcoin/move-js@^0.7.1":
+  "integrity" "sha512-qVUwzhOp8rJ3Rj8MxN79o23Krwa959kN2UhaXUCz5oq5rt8n/HyH5U4aq74TIdg8HYLqJtGg2slx2dTCgeh1NA=="
+  "resolved" "https://registry.npmjs.org/@starcoin/move-js/-/move-js-0.7.1.tgz"
+  "version" "0.7.1"
+  dependencies:
+    "@iarna/toml" "^2.2.5"
+    "@swc/helpers" "^0.3.13"
+    "@wasmer/wasi" "^0.12.0"
+    "@wasmer/wasm-transformer" "^0.10.0"
+    "@wasmer/wasmfs" "^0.12.0"
+
 "@starcoin/starcoin@2.1.5":
   "integrity" "sha512-fm9A7Sx6URk90jbZPevD5SAMxftvb3r8stL9HPJVxAlNL3uD46Ir04auUL9xhYOR39truWtsBeq7C9+DXpo45g=="
   "resolved" "https://registry.npmmirror.com/@starcoin/starcoin/-/starcoin-2.1.5.tgz"

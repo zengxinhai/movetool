@@ -27,6 +27,7 @@ import ContractCall from "../pages/Constract/Call/index";
 
 import ABIParser from "../pages/Aptos/ABIParser";
 import MoveU8toString from "../pages/Aptos/MoveU8toString";
+import MoveDecompilePage from '../pages/Aptos/MoveDecompile';
 
 export default function Router() {
     return (<Routes>
@@ -58,6 +59,7 @@ export default function Router() {
 
         <Route path="/aptos/abi_parser" element={<ABIParser />} />
         <Route path="/aptos/debug_string" element={<MoveU8toString />} />
+        <Route path="/aptos/move_decompile" element={<MoveDecompilePage />} />
 
     </Routes>);
 }

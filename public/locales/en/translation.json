@@ -18,7 +18,8 @@
 
     "aptos": "Aptos Tools",
     "abi_parser": "ABI Parser",
-    "debug_string": "move vector<U8> to string"
+    "debug_string": "move vector<U8> to string",
+    "move_decompile": "Move decompile"
   },
   "issue_token": {
     "title": "Issue Starcoin Token",
